@@ -1,0 +1,4 @@
+c:\users\primeit\documents\visual studio 2010\Projects\Muqadam\Muqadam\bin\Muqadam.dll
+c:\users\primeit\documents\visual studio 2010\Projects\Muqadam\Muqadam\bin\Muqadam.pdb
+c:\users\primeit\documents\visual studio 2010\Projects\Muqadam\Muqadam\obj\Debug\Muqadam.dll
+c:\users\primeit\documents\visual studio 2010\Projects\Muqadam\Muqadam\obj\Debug\Muqadam.pdb
